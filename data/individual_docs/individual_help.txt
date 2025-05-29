@@ -1,0 +1,8 @@
+Help for Individual Users
+
+If you're experiencing issues logging in, try resetting your password using the "Forgot Password" option.
+
+Common troubleshooting:
+- Clear browser cache and cookies
+- Ensure your email is registered
+- Contact support@company.com if you need further help

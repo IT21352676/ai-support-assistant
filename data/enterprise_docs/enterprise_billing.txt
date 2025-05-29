@@ -1,0 +1,10 @@
+Enterprise Billing & Invoicing
+
+Invoices are generated on the 1st of each month and emailed to the finance contact on file. Payment is due within 30 days. 
+
+Payment methods accepted:
+- Wire transfer
+- ACH
+- Corporate credit card (with a 3% fee)
+
+Contact billing@company.com for invoice questions.
