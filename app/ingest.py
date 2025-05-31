@@ -1,14 +1,14 @@
 from sentence_transformers import SentenceTransformer
 import chromadb
 from chromadb.config import Settings
-from app.config import DATA_DIR
+from app.config import DATA_DIR, VECTOR_DIR
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 import chromadb
 from chromadb.config import Settings
 
-chroma_client = chromadb.PersistentClient(path="chroma_store")
+chroma_client = chromadb.PersistentClient(path=VECTOR_DIR)
 
 def load_documents(customer_type):
     folder = DATA_DIR / f"{customer_type}_docs"

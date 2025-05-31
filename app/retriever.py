@@ -1,12 +1,13 @@
 from sentence_transformers import SentenceTransformer
 import chromadb
 from chromadb.utils import embedding_functions
+from app.config import VECTOR_DIR
 
 # Load sentence transformer model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Use PersistentClient (new API)
-chroma_client = chromadb.PersistentClient(path="chroma_store")
+chroma_client = chromadb.PersistentClient(path=VECTOR_DIR)
 
 # Retrieve chunks
 def retrieve_chunks(customer_type, query):
