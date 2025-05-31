@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPENROUTER_API_KEY = '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'
-# os.getenv("OPENROUTER_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+
 
 async def generate_llm_response(prompt: str):
     headers = {
