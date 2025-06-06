@@ -1,0 +1,17 @@
+      - Navigate to
+      - Purchase -> Residential Proxies -> Billing and History
+    - 
+  - You can allocate the credits to each product using this.
+      - Click on
+      - Allocate
+      - Button.
+    - 
+      - You can see the
+      - Available Credits
+      - there. Also, then you have to allocate the existing credits as per your requirement. Then click
+      - Allocate
+      - to complete the data allocation.
+    - 
+      - You can see the Credit Allocation History in the same page and it can be filter with multiple periods.
+    - 
+    - 

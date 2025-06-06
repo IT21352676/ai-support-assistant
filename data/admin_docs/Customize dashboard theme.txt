@@ -1,0 +1,19 @@
+    - The dashboard theme is 100% customizable, Follow the below steps to customer your dashboard theme.
+  - 
+      - To edit the Dashboard Theme, click on the following link and Click the icon in the top right.
+  - 
+    - https://proxydashbuilder.netlify.app/residential
+  - 
+    - 
+  - 2. Choose the primary colour of the dashboard from the Colour Pallete.
+    - 
+  - 3. Then choose your Dashboard background colour.
+    - 
+  - 4. Set your required saturation of the Dashboard.
+    - 
+  - 5. Also finally set the Lightness in your Dashboard.
+    - 
+  - 6. Finally, Click below the marked area to Copy the Theme colour of the Dashboard.
+    - 
+  - 7. After copying the theme, submit the theme code on the form.
+    - 

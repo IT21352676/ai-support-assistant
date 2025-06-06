@@ -1,0 +1,13 @@
+    - This guide will help you to keep track of your dashboard logged ins.
+      - In the
+      - Users
+      - tab, the dashboard will display all users who have logged into the proxy dashboard. The dashboard will display the users' Discord ID, Avatar, Discord Tag, Email Address and the date first logged in.
+    - 
+  - 2. You can also search for a user by their email ID, Discord ID or Discord Tag.
+  - 
+    - How to get Discord ID:
+      - https://youtu.be/VTgVsQ0gwKM
+    - 
+  - Click on the user to view user data.
+    - 
+  - 

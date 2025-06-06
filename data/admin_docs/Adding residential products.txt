@@ -1,0 +1,39 @@
+    - This guide will help to set up residential products for your dashboard.
+  - 
+  - 
+  - 1. Firstly, Log in to the Stripe Account.
+    - 
+    - Before you create a product in Stripe, make sure you select the correct account. If you connect it through the onboarding, it should look as follows.
+    - 
+  - 2. Right Side of the Stripe Dashboard find Products and click that.
+    - 
+  - 3. Next Add Products
+    - 
+  - 4. Then name your product
+    - 
+  - 5. Also set the price for your product.
+    - 
+  - 6. Click "One Time" below Price.
+    - 
+  - 7. To add another product, Repeat the process.
+    - 
+  - 8. After adding the products, View Additional Options.
+    - 
+  - 9. Then add Metadata for your desired residential provider using our meta data guide guide below.
+  - 
+    - 
+  - 10. Here you can view all the prices created, And click on a price.
+    - 
+  - 
+  - 11. To add bandwidth limit Click Edit MetaData. In the first field add "data_gb" followed but your desired number of GB for that price and save. And repeat the same for other prices as well.
+  - 
+    - In this example, there will be 1 gb being delivered to the customer.
+    - 
+  - 12. Now go-to products and now we are done with our first product. We do not recommend making more than 6 prices per product.
+    - 
+  - 13. Then go to dashboard and products section and choose your selected plan and edit it.
+    - 
+  - 14. Then click Sync with Stripe to sync all the prices.
+    - 
+  - 15. Once the sync is completed, you should see the number of GB next to the prices you set. Repeat this process if you are using multiple API's.
+    - 

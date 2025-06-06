@@ -1,0 +1,31 @@
+    - This guide will be useful if the prices of any of the products are adjusted or eliminated.
+    - Sometimes stripe will not allow you to edit a price if the price has already been purchased by a customer. In this case, you first need to delete the price
+      - 
+    - and you should need to create a new price.
+      - To change or remove the price of a product, this guide will be helpful. As mentioned below To change the price of the Plan Killer Basic data follow the guide.
+    - 
+  - 2. Go to your Stripe account and products.
+    - 
+  - 3. Then go to the "Overview" page.
+    - 
+  - 4. Choose the correct plan as shown below "Killer Basic".
+    - 
+  - 5. Once choose the correct product, Then choose the correct price.
+    - 
+  - 6. Copy the metadata, And if you know the metadata then you don't have to copy it.
+    - 
+  - 7. The existing price needs to be archived before adding new, In order to do that click the three dots marked and you will get some options from that choose archive price.
+    - 
+  - 8. As shown then go to "Add Another Price"
+    - 
+  - 9. Here choose one time, Give your desired price and finally "Add Price"
+    - 
+  - 10. Then click on the desired price.
+    - 
+  - 11. Then edit Metadata and insert the value finally save metadata.
+  - 
+    - 
+  - 12. Here you will see the changes made.
+    - 
+  - 13. Again back to Dashboard, Now Sync with stripe. Eventually, refresh the page again.
+    - 

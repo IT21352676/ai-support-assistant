@@ -1,0 +1,23 @@
+    - This section provides information on how to subscribe to a recurring product. You have the option to select the desired provider and purchase the required data accordingly.
+      - First you have to navigate to
+      - Purchase -> Residential Proxies -> Subscription
+    - 
+      - You can see the available
+      - plans
+      - with their features and the cost per month.
+    - 
+      - Select the
+      - quantity
+      - to be subscribed based on the required product.
+    - 
+      - Then click on the
+      - Subscribe
+      - button
+    - 
+      - To check the order history, navigate to
+      - Billing and History -> Subscription.
+      - You can see your subscription purchase history under "
+      - Subscription History
+      - "
+    - 
+    - 

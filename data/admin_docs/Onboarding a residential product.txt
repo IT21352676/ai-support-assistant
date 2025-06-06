@@ -1,0 +1,40 @@
+    - This guide will help to set up residential products for your dashboard.
+    - Typically it would take 24 hours to complete the onboarding process.
+  - 
+  - 
+      - In order to set up the Stripe Product follow the below-mentioned steps.
+    - 
+  - 2. Firstly, Log in to the Stripe Account.
+    - 
+  - 3. Right Side of the Stripe Dashboard find Products and click that.
+    - 
+  - 4. Next Add Products
+    - 
+  - 5. Then name your product
+    - 
+  - 6. Also set the price for your product.
+    - 
+  - 7. Click "One Time" below Price.
+    - 
+  - 8. To add another product, Repeat the process.
+    - 
+  - 9. After adding the products, View Additional Options.
+    - 
+  - 10. Then add Metadata Key the exact text for the MetaData section can be found below, Copy and Paste from the below to omit errors. Then save the product.
+    - 
+  - 11. Here you can view all the prices created, And click on a price.
+    - 
+  - 
+  - 12. To add bandwidth limit Click Edit MetaData. In the first field add "data_gb" followed but your desired No. of GB for that price and save. And repeat the same for other prices as well.
+    - 
+  - 13. Now go-to products and now we are done with our first product. We do not recommend making more than 6 prices per product.
+    - 
+  - 14. Then go back to the onboarding site and choose the plan we just set up.
+    - 
+  - 15. And then sync with the stripe.
+    - 
+  - 16. If everything goes well you should see your GB next to the prices you set.
+    - 
+  - 
+  - 17. Repeat this process if you are using multiple API's.
+    - 

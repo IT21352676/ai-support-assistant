@@ -1,0 +1,13 @@
+    - This section will guide you to update your company name to appear as the title and footer name on the customer dashboard.
+      - Go to Admin Dashboard and click on
+      - More Settings
+    - 
+  - 2. Enter the company name under the Dashboard UI section
+  - 
+  - and click Update.
+    - 
+  - The name will be updated in 02 places such as the Title name and the footer name.
+  - Title Name
+    - 
+  - Footer Name
+    - 

@@ -1,0 +1,9 @@
+    - The residential purchases can be limited or even stopped. Follow the guide
+      - If you check the dashboard it can be purchased now.
+    - 
+  - 2. Go to your admin dashboard then products and select the plan, Click on the edit icon as shown below.
+    - 
+  - 3. Turn off the red icon as shown below to disable the purchases.
+    - 
+  - 4. Then refresh the dashboard page and it will be out of stock.
+    - 

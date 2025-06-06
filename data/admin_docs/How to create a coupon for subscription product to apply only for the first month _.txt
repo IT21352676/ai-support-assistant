@@ -1,0 +1,10 @@
+      - Please go to the product tab of the stripe
+      - Select coupon
+      - Select the required product and fill in the relevant details
+      - Select
+      - Once
+      - as the duration
+    - 
+      - Enter the coupon code and select
+      - Create Coupon
+    - 

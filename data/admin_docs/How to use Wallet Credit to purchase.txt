@@ -1,0 +1,36 @@
+  - Overview
+  - With our new top-up system, you can easily add credits to your account and use your wallet balance for purchases. Simply add credits, and you’ll have more flexibility in managing your payments. You can check your wallet balance and track your credit history right from your dashboard. Whether you're making a one-time payment or setting up a recurring payment, your wallet balance can be used seamlessly, giving you more control and convenience in handling your transactions.
+  - 
+  - Steps to use Wallet Balance for Purchases
+      - Log in to the User Dashboard and at the top-right of the tabs section, you can see a new icon for
+      - Wallet
+      - . Your current
+      - Wallet Balance
+      - will be shown there. If it is not updated, kindly refresh to update the Wallet Balance.
+    - 
+      - Select the required product and click
+      - Purchase
+      - .
+    - 
+      - Then, click the
+      - Pay with Wallet
+      - option.
+    - 
+      - Then, you have to
+      - agree
+      - to the
+      - Terms of Service
+      - . For that, click on the “
+      - I Agree
+      - ” Button.
+    - 
+      - Then, click the
+      - Purchase
+      - Button. Here, if you are purchasing a one-time product, it will be “
+      - Purchase
+      - ” and if you are purchasing a Subscription product, it will be “
+      - Subscribe
+      - ”.
+    - 
+      - With the tick sign, your purchase will be a success.
+    - 

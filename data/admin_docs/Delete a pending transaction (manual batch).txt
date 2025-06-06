@@ -1,0 +1,7 @@
+    - To keep the Dashboard clean without pending and unsuccessful orders, It can be deleted as follows.
+      - Go to your dashboard and click Datacenter.
+    - 
+  - 2. For The transactions that are incomplete you can see the delete icon and click that.
+    - 
+  - 3. Confirm and click delete
+    - 

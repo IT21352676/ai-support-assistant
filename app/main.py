@@ -19,14 +19,15 @@ def retrieve_context(
 @app.get("/generate-response")
 async def generate_response(customer_type: str = Query(...), question: str = Query(...)):
     # Cache key
-    cache_key = create_cache_key(customer_type, question)
-    cached = get_cached_response(cache_key)
+    # cache_key = create_cache_key(customer_type, question)
+    # cached = get_cached_response(cache_key)
 
-    if cached:
-        return {"cached": True, "response": cached.decode()}
+    # if cached:
+        # return {"cached": True, "response": cached.decode()}
 
     # Retrieve relevant chunks
     context = retrieve_chunks(customer_type, question)
+    print(context)
 
     prompt = f"""Answer the following based on the context below:
 Context: {context['results']}
@@ -36,6 +37,6 @@ Question: {question}"""
     ai_response = await generate_llm_response(prompt)
 
     # Save to cache
-    set_cached_response(cache_key, ai_response)
+    # set_cached_response(cache_key, ai_response)
 
     return {"cached": False, "response": ai_response}

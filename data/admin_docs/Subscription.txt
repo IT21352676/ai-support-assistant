@@ -1,0 +1,19 @@
+    - This section aims to provide comprehensive information regarding the subscription tab. The subscription tab comprises all the recurring products and presents various details pertaining to these products
+      - Go to the admin dashboard and click on the transactions, And then click on Subscriptions
+    - 
+      - You can filter the transactions using the filters such as email, Discord ID,  Discord tag & Subscription ID & ISPs.
+    - 
+    - Following are the columns you can find in the subscription tab
+      - Subscription ID - This is the subscription ID generated for a particular subscription transaction. (Just click on the particular ID to get to copied to the clipboard)
+      - Email - The email address attached to the transaction.
+      - Discord ID - Discord ID of the sub-user
+      - Discord Tag - Discord tag of the sub-user
+      - Data GB / Amount - Data GB/Amount related to the subscription product.
+      - Price Paid - The price paid in purchasing the subscription product.
+      - Product - Name of the subscription product.
+      - Status - You can select a different status to filter the following subscription transaction statuses.
+    - 
+  - 
+      - Created At - The date that the subscription product was first created.
+      - Webhooks for the transactions will only be sent for subscription creation, renewal, cancellation and failures.
+  - 

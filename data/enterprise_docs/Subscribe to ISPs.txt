@@ -1,0 +1,27 @@
+    - We provide you with a wide range of ISPs, and you can select based on your specific use case. This section will guide you on how to subscribe to a recurring ISP product.
+      - First, navigate to
+      - Purchase -> ISP Proxies -> Purchase.
+      - Then, you can see the available proxy plans with their features.
+    - 
+      - Next, you can select the
+      - country
+      - that you want the proxies from.
+    - These ISP products are renewing monthly by default hence it is mentioned as 1 month.
+    - 
+      - Then select the
+      - quantity
+      - under the required ISP product.
+    - 
+      - Finally, click on the
+      - subscribe
+      - button and complete the payment.
+    - 
+      - To check the order history, click on
+      - Billing and History
+      - tab
+      - .
+      - You can see your subscription purchase history under "
+      - Subscription History
+      - "
+    - 
+    - 

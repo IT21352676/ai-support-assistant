@@ -1,0 +1,7 @@
+    - In order to change the position of your plans in the dashboard follow the guide.
+      - You can change the position of the products on customer dashboard
+    - 
+  - 2. Go to the Admin Dashboard products section, The plans can be moved up and down. Hover it as you wish and it will get auto-saved.
+    - 
+  - 3. Finally reload the dashboard to have the changes appear.
+    - 

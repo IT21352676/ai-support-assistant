@@ -1,0 +1,6 @@
+    - This guide will help you to set up the default country of the User Dashboard.
+      - First, you need to access the user settings
+  - 
+      - Go to User Dashboard and click on the gear icon.
+      - Select the preferred country as the default country by clicking the dropdown menu.
+    - 

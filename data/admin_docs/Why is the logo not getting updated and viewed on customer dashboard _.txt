@@ -1,0 +1,5 @@
+  - The browser cache has to be cleared so that the updated logo to appear.
+  - Anyone can clear their cache using the following guide:
+  - 
+  - Updating Primary Logo
+  - 

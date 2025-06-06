@@ -1,0 +1,11 @@
+    - When the customers are trying to access the customer portal they may get a white screen or not get the access at all. In such cases please follow the following steps to fix the problem.
+  - 
+      - Search
+      - customer portal
+      - and click it.
+    - 
+      - Click
+      - Save changes
+      - button
+    - 
+  - 

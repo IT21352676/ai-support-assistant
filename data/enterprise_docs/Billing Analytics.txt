@@ -1,0 +1,17 @@
+      - Navigate to
+      - Purchase -> Residential Proxies -> Billing & History
+    - 
+  - Billing Section
+      - Credit Balance
+      - - This reflects the remaining data balance
+    - 
+      - Total Credits
+      - - These are the total credits purchased
+  - 
+    - 
+      - Credit Consumed
+      - - This reflects the total credits consumed.
+    - 
+      - Credit Requirement
+      - - Overview of the plan type shows the number of credits required for allocating 1GB. For ISP, it is for an one Proxy. These are fixed values.
+    - 

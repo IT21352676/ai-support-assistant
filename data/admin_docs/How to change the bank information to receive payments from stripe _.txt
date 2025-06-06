@@ -1,0 +1,4 @@
+  - Please refer to the following guide and follow the instructions.
+  - 
+    - https://support.stripe.com/questions/update-existing-bank-account-information
+  - 

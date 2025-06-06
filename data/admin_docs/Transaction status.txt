@@ -1,0 +1,10 @@
+    - Our transaction section has 4 main types of transactions. This page will discuss what each of the statuses means.
+  - Transaction Types
+  - 
+  - Status Types
+    - 99% of the time you see the
+    - Incomplete
+    - status is due to the upstream provider's API giving our system a bad response. This means that their API is currently not responding to our request.
+  - 
+  - Full Order Status
+  - 

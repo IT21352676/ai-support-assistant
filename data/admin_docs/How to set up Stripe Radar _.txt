@@ -1,0 +1,53 @@
+    - Simply turning on stripe radar is NOT sufficient. You need to configure stripe radar rules.
+    - Stripe Radar is a fraud detection and prevention system offered by Stripe. This system uses machine learning algorithms to analyze and identify patterns of fraudulent behavior, as well as to identify potential risks and suspicious transactions in real-time. By using advanced data analytics and pattern recognition techniques, Stripe Radar helps businesses prevent fraud and protect themselves from financial losses, chargebacks, and reputational damage. Stripe Radar also provides a range of customizable features, such as manual review of flagged transactions and rule-based filters, to help businesses tailor their fraud detection strategies to their specific needs. Overall, Stripe Radar is a powerful tool for businesses that want to ensure the security and integrity of their online payments and transactions.
+  - Enabling stripe radar
+      - Turn on stripe radar:
+        - 
+      - 
+        - https://dashboard.stripe.com/settings/radar
+      - 
+      - Choose, turn on Stripe radar for fraud teams
+  - Stripe Radar rules
+    - There are two types of main rules you can enable: Block rules & 3DS rules
+    - Block rules - These will block payments if it matches given criteria
+    - 3DS rules- These will request 3DS verification from the customer if it matches given criteria
+    - We will also categorize how effective each rule is at preventing fraud such as stolen credit cards.
+    - 
+      - 
+    - - Very effective
+    - 
+      - 
+    - - Effective
+    - 
+      - 
+    - - Not very effective
+    - We also recommend you enabling ALL the rules listed below
+  - 3DS Rules
+    - 
+  - The first 3 rules are already created in your stripe account, you simply need to click
+  - enable
+  - to activate them.
+      - 
+        - 
+      - The first one, requests 3DS if it is required by the card
+      - 
+        - 
+      - The second one, requests 3DS if it is recommended by the card
+      - 
+        - 
+      - The third one, requests 3DS if it is supported by the card - This rule will make the card holder provide 3DS in almost all cases
+      - 
+        - 
+      - Last one is requesting 3DS if the user is using a VPN
+  - 
+  - Block Rules
+    - 
+      - Block if Stripe thinks the customer is a high-risk customer.
+      - Block if the customer is in your block list.
+      - Block if the issuing country of the card is different from the customer's current IP address.
+      - Block if the customer has more than 1 failed transaction.
+      - Block if the CVC code entered at checkout is wrong.
+      - Block if the Zip/postal code entered at checkout does not match the card billing Zip/postal code.
+      - Block if the address line 1 entered at checkout does not match the cards address line 1
+      - Similar to rule 6
+  - 

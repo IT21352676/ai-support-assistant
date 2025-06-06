@@ -1,0 +1,9 @@
+    - To accept orders from your residential product follow the below steps.
+      - Now the purchases are out of stock, To start accepting orders follow the below steps.
+    - 
+  - 2. Go to the dashboard then products and edit by clicking the edit icon.
+    - 
+  - 3. Turn on the red button as shown below so it's active.
+    - 
+  - 4. Now refresh the page and you can accept the orders.
+    - 

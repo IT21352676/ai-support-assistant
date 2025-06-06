@@ -1,0 +1,10 @@
+    - Make sure you are on Google Chrome or else if you are using Safari make sure to enable developer settings.
+      - Go to user dashboard > Right Click on any space > Select
+      - Inspect
+    - 
+      - Select
+      - Network
+      - tab
+    - 
+      - Please refresh the page
+      - While you are on the network tab refresh the page and send a screenshot.

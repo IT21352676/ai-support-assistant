@@ -1,0 +1,28 @@
+    - Any product can have two types of prices:
+        - One-time - Customer is billed once
+        - Recurring - Customer is billed on a recurring basis (eg: Monthly)
+    - 
+    - You can add recurring prices to any existing product.
+    - Each product can have both one-time and recurring prices at the same time.
+    - Recurring products are only available for Datacenter and Accounts products only at the moment. Residential products are coming soon.
+    - Only in each successive billing cycle, the customer will be delivered the originally delivered product on their first checkout. They
+    - will not
+    - be delivered a new list each time their subscription updates.
+    - If you want to update their delivered product, you can do so by following the below guide:
+      - https://docs.torchlabs.xyz/data-center-and-accounts/edit-and-view-delivered-a-products
+    - 
+  - Before you add a recurring price, you also need to make sure you have the customer billing portal set up as well.
+  - 
+      - To add recurring prices, go to an existing product you have created within Stripe.
+    - 
+  - 2. Click on Add Another Price.
+    - 
+  - 3. Next, put your desired price and choose "Recurring" and click Add price.
+    - 
+  - 4. Next, you need to add the metadata to specify the quantity you wish to deliver at the given price point.
+  - For detailed instructions refer to each product setup page and metadata can be found below
+  - 
+    - 
+  - 5. You can now see that we have successfully created a recurring product since we have a price with /month next to it.
+    - 
+  - 6. Finally, head over to the admin dashboard and sync your products following the usual process.

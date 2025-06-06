@@ -1,0 +1,10 @@
+    - This section will guide you to update your Discord Link to appear on the user dashboard.
+      - Go to Admin Dashboard and click on More Settings
+    - 
+  - 2. Enter the Discord Link under the Dashboard UI section
+  - 
+  - and click Update.
+    - 
+  - 
+  - The Discord will appear on the user dashboard as follows
+    - 

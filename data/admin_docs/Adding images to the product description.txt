@@ -1,0 +1,21 @@
+    - This guide will help you add an image to a product on the customer dashboard.
+      - Go to Stripe and Select "Product Catalog."
+    - Choose the relevant product that needs an image.
+      - Choose the relevant product that needs an image.
+    - 
+  - 
+      - Click the "Edit" button.
+    - 
+      - Upload the appropriate image & Click "Save."
+    - 
+      - Then, go to the admin dashboard and click on the "Products" tab.
+    - 
+      - Select the edit icon to update the product.
+    - 
+      - Click the "Additional Features" button.
+    - 
+      - Click on "Sync with stripe" button under Sync Product Image
+    - 
+      - Finally, you can go to the customer dashboard to check the updated image.
+  - 
+  - 

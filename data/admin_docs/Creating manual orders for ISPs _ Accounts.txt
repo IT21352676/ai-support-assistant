@@ -1,0 +1,39 @@
+    - This section will guide you on creating a manual order for ISPs/ Accounts. This is similar to adding/removing data to people using the admin dashboard for residential providers.
+    - We can not create manual orders for ISP API, Porter Proxies & Tanmay.
+    - Internal notes are only visible to admins and not the users
+  - 
+      - Go to Datacenter / Account tab on the admin dashboard
+    - 
+  - 2. Select
+  - Create Order
+    - 
+  - 3. Select the user that the accounts / ISPs to be added for
+    - 
+  - 4. Select the product that needs to be added
+    - 
+    - If you are using TL ISP API (
+      - 
+    - ), the proxy list will automatically populate.
+      - If the product you select has an
+        - active batch
+      - then it will automatically fulfill the proxies for you. All you have to do is select the order type as
+      - one time
+      - 
+      - or
+      - 
+      - Subscription
+      - and set the desired quantity of proxies you want to deliver to the user (Please note that you can only offer quantities that match the predefined levels set for the product.)
+    - 
+    - If you are not using TL ISP API then proceed with the below steps
+  - Paste the ISPs / Account list here
+    - 
+  - 6. Set the expiration date or the number of days from creation date to expiration date for the pasted list.
+    - If you are using TL ISP API, you do not need to set expiration date as it is automated.
+    - 
+  - 7. Admin can add an internal note here as required
+    - 
+  - 7.1 That internal note would be displayed in Transactions tab under payment sub-tab
+    - 
+      - Tick confirm and then select add.
+    - 
+  - 

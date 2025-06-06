@@ -1,0 +1,85 @@
+    - This guide will lead you through the process of establishing cryptocurrency payments.
+    - Cryptocurrency is a digital or virtual form of currency that utilizes cryptography for secure financial transactions and operates independently of a central bank.
+    - We exclusively support
+    - Stripe Crypto Payments
+    - , which are currently available only for the US region.
+  - Supported Networks and Currency Types
+  - Here are the available Cryptocurrency types and supported networks.
+    - 
+  - Enabling Crypto Currency
+      - Go to the
+        - Admin Dashboard
+      - and select the
+      - More Settings
+      - tab and then scroll down to the bottom of the page.
+      - Navigate to the
+      - Enable Crypto Payments
+      - section.
+    - 
+      - Click on the provided link highlighted in orange or visit to the below link.
+      - Crypto Onramp Setup
+      - :
+        - https://dashboard.stripe.com/crypto-onramp/get-started
+      - 
+      - Complete the first 3 sections.
+    - 
+      - Once completed, it will looks like below.
+    - 
+      - Then, visit the
+      - Payment Methods
+      - page using the below link.
+      - Payment Methods page
+      - :
+        - https://dashboard.stripe.com/settings/payment_methods/
+      - 
+      - Then, click on the
+      - Default
+      - payment method.
+    - 
+      - Navigate to the
+      - Wallet
+      - section and click on the
+      - Turn On
+      - button under
+      - Crypto
+      - .
+    - 
+      - Once activated, it will show like this.
+    - 
+      - Once all the setup is completed in Stripe, go to the
+      - Enable Crypto Payments
+      - section in the Admin Dashboard. Enable the
+      - Enable Crypto Payments
+      - option, and cryptocurrency payments will be activated on the
+      - User Dashboard
+      - .
+      - To disable card payments and offer only cryptocurrency as a payment option for customers, simply enable the
+      - Disable Card Payments
+      - option in the settings. Once this option is activated, the
+      - Pay with Card
+      - payment method will no longer be visible on the user dashboard, ensuring that customers can exclusively pay using cryptocurrency. This provides a streamlined payment process tailored to cryptocurrency users.
+    - 
+    - Please note that this feature is optional, and we encourage customers to keep both card and cryptocurrency payment options available on the dashboard.
+  - 
+  - Purchasing with Cryptocurrency
+      - the Go to User Dashboard and click on the
+      - Purchase
+      - 
+      - button .
+    - 
+      - Select
+      - Pay with Crypto
+      - as the payment method. If you have a
+      - Promo Code
+      - , you can enter it in the designated field; this step is optional and not required for purchase. Once done, click
+      - Continue
+      - to proceed with the payment.
+    - 
+      - Then, you will guide to the
+      - Stripe Checkout
+      - page and then click on
+      - Pay
+      - button. Then, proceed with the payment by completing the requested data in the Stripe Checkout Page.
+    - 
+  - 
+  - 

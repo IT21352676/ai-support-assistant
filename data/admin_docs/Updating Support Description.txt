@@ -1,0 +1,11 @@
+    - This section will guide you to update your Support description to appear on the user dashboard.
+      - Go to Admin Dashboard and click on More Settings
+    - 
+      - Enter the description under the Update Support Description field in the Dashboard UI section
+      - 
+      - and click Update.
+    - 
+  - The Support description will appear on the user dashboard as follows
+    - 
+  - 
+  - 

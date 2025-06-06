@@ -1,0 +1,59 @@
+    - Any product can have two types of prices:
+        - One-time - Customer is billed once
+        - Recurring - Customer is billed on a recurring basis (eg: Monthly)
+    - 
+    - You can add recurring prices to any existing product.
+    - Each product can have both one-time and recurring prices at the same time.
+    - We have introduced our residential proxies with a convenient recurring pricing model.
+    - Only in each successive billing cycle, the customer will be delivered the originally delivered product on their first checkout. They
+    - will not
+    - be delivered a new list each time their subscription updates.
+    - If you want to update their delivered product, you can do so by following the below guide:
+      - https://docs.torchlabs.xyz/data-center-and-accounts/edit-and-view-delivered-a-products
+    - 
+  - Before you add a recurring price, you also need to make sure you have the customer billing portal set up as well.
+  - 
+      - To implement recurring prices in the residential proxies, we can add the same to the existing products. Therefore, go to an existing product you have created within Stripe.
+    - 
+  - 2. Click on the
+  - Plus ( + )
+  - sign.
+    - 
+      - Next, select the
+      - Recurring
+      - button. Then, enter the subscription price in the
+      - Amount
+      - text box under the
+      - Price
+      - section. Next, change the
+      - billing period
+      - to "
+      - Custom
+      - " and set the period to
+      - every 28 days
+      - . once done, click the
+      - Create Price
+      - Button.
+    - 
+      - Next, you need to add the metadata to specify the quantity you wish to deliver at the given price point.
+      - For detailed instructions refer to each product setup page and metadata can be found below
+  - 
+      - To add the metadata, click on the recurring price. Then, click on
+      - Edit metadata
+      - .
+    - 
+    - 
+      - Next, update the key and value as follows: The
+      - key
+      - should be "
+      - data_gb
+      - ," and the
+      - value
+      - should correspond to the
+      - amount of data
+      - you plan to provide with the subscription in Giga Bytes (GB).
+    - 
+      - You can now see that we have successfully created a recurring product since we have a price with billing cycle next to it.
+    - 
+      - Finally, head over to the admin dashboard and sync your products following the usual process.
+  - 

@@ -1,0 +1,16 @@
+    - This guide will be useful if any of the products' prices are to be eliminated.
+    - You should not delete any of the products instead archive the products on Stripe.
+      - To remove the price of a product, this guide will be helpful. As mentioned below To remove the price of the Plan Killer Basic data follow the guide.
+    - 
+  - 2. Go to your Stripe account and products.
+    - 
+  - 3. Then go to the "Overview" page.
+    - 
+  - 4. Choose the correct plan as shown below "Killer Basic".
+    - 
+  - 5. Once choose the correct product, Then choose the correct price.
+    - 
+  - 6. The existing price needs to be archived before adding a new one, In order to do that click the three dots marked and you will get some options from that choose archive price.
+    - 
+  - 7. Again back to Dashboard, Now Sync with Stripe. Finally, refresh the page again.
+    - 

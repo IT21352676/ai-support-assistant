@@ -1,0 +1,20 @@
+    - This section will guide you on how to upload the primary logo.
+    - 
+    - The primary logo is the logo which would appear on your user dashboard - left side corner.
+    - Once you upload the logo it might take a few hours for the logo to appear on the dashboard.
+      - Go to Admin Dashboard and click on More Settings
+  - 
+    - 
+  - 2. Click on
+  - Choose file
+  - under the Dashboard UI section
+  - 
+  - and upload your primary logo
+    - 
+      - Enter the primary logo URL
+    - This step is required only for those who want to white-label the primary logo URL. This logo URL will be displayed on the user dashboard, replacing the current logo.
+    - Or else you can keep this space empty to have your current logo with the default URL.
+    - 
+  - The logo will appear as follows (i.e. Google)
+    - 
+  - 

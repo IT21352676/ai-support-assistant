@@ -1,0 +1,27 @@
+    - There are many reasons you might want to use a third-party DNS server, from parental controls and security features to speed and reliability improvements. You can change the DNS server for your entire home network on your router, or set it individually on a PC, Mac, iPhone, iPad, Android device, Chromebook, or many other devices.
+  - Godaddy DNS settings
+      - Click on Domains and then click on
+      - All Domains
+    - 
+  - 2. From the list of your current domains, click on the domain you own.
+    - 
+  - 3. Next, scroll all the way to the end of the page and you should see a
+  - Manage DNS
+  - option
+    - 
+  - 4. Here you can add your new DNS records
+    - 
+  - Namecheap DNS settings
+      - Click on your
+      - Account
+      - and then choose
+      - Domain List.
+    - 
+  - 2. Find your domain and click
+  - Manage.
+    - 
+  - 3. Next, go to the
+  - Advanced DNS
+  - tab.
+    - 
+  - 4. Now you can create any DNS record you want

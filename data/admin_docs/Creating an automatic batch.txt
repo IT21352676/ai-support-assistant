@@ -1,0 +1,9 @@
+    - There are two types release auto and manual, In order to create auto releases please check this guide.
+      - Go to dashboard then datacenter and click the drop-down to choose the Automatic.
+    - 
+  - 2. Next, click on new batch.
+    - 
+  - 3. Add your proxies here click confirm and launch
+    - 
+  - You have the option of adding an expiration date on ISPs and please find the following guide.
+  - 

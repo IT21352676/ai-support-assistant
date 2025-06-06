@@ -1,0 +1,16 @@
+    - This guide will help you to view the total usage of different products on the user dashboard.
+      - Go to the User dashboard and select the product you want to check the data usage
+    - 
+  - 2. Click
+  - View Data Usage
+    - 
+  - The data usage will be indicated as follows
+    - 
+  - 3. Only on Oxylabs (Elite) you can view the day-by-day usage for one month by clicking
+  - View Total Usage
+  - .
+    - 
+  - Day-by-day usage will be displayed as follows
+    - 
+  - 
+  - 

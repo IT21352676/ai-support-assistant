@@ -1,0 +1,21 @@
+    - This section would provide you with a guide on how to enable Discord auto-join. If you enable this anyone who visits the website would be auto-joined to the discord server as well.
+    - If someone is already in the server this can't have experimented.
+  - 
+      - Click on the APP you made for the Authentication during the initial onboarding.
+    - 
+  - 2. Go to bot and click Add bot as shown here.
+    - 
+  - 3. Then click Yes.
+    - 
+  - 4. Give the Bot Administrator permission.
+    - 
+  - 5. Click reset token.
+    - 
+  - 6. Then click yes.
+    - 
+  - 7. Next copy the token.
+    - 
+  - 8. Then go to the admin dashboard and more settings, also click enable auto-join.
+    - 
+  - 9. Paste the token that was copied and save it.
+    - 

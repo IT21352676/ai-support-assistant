@@ -1,0 +1,62 @@
+    - 
+    - Please ensure you copy and paste the metadata tags exactly as shown in our guides to avoid any mistakes.
+    - The
+    - amount
+    - metadata/parameter in the data center and accounts tab is what dictates the quantity to be delivered. It is especially useful when using the automatic delivery mode as it will deliver exactly the quantity specified. For example, if you are selling subnets that come in the size of 254 ISPs, you can stack these on top of each other and the automatic mode will auto-deliver the correct subnets to the right person.
+  - Residential Product
+  - 
+  - 
+  - Example:
+  - This is an example of the packet stream product. The first field input
+  - torchlabs_product
+  - (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is
+  - torchlabs_basic
+  - which is used to identify the
+  - Packetstream
+  - API
+    - 
+  - The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 15 GB of the Killer Basic plan for $140. We use the
+  - data_gb
+  - 
+  - metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the
+  - data_gb
+  - we have the actual quantity in gigabytes, in this case, 15 GB (only put the value and not the letters GB - again referring to this example, it will be just 15)
+    - 
+  - Data center Product
+  - 
+  - The following metadata is used as a unique identification so that you can allocate products under the different metadata titles. The metadata names with daily/weekly / monthly are just going to be a unique identification whereas you do not need to consider their literal meaning when allocating the metadata. You can use any of the metadata names for any product.
+  - Product 4
+  - Example
+  - This is an example of Datacenter product. The first field inputs
+  - torchlabs_product
+  - (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is
+  - torchlabs_weekly
+  - which is used to identify a unique product.
+    - There is some confusion regarding the terminology behind daily, weekly, and monthly on the metadata -  These actually mean nothing. It is only used to differentiate between all the data center products. They can be used interchangeably as well. For example, if you are selling Yeezysupply daily proxies, you can use any of the 3 metadata tags
+    - 
+  - The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 100 Killer ISPs for $300. We use the
+  - amount
+  - 
+  - metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the
+  - amount
+  - we have the actual quantity in units, in this case, 100 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 100)
+    - 
+  - Account Product
+    - With the Accounts Product, you can make up to 9 unique products (if you need more let us know!) and unlike datacenter, the metadata is all the same for all the products...we use some magic behind the scene to make it all work!
+  - 
+  - 
+  - You can repeat the above metadata for up to 9 products.
+  - Example:
+  - This is an example of an Account product. The first field inputs
+  - torchlabs_product
+  - (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is
+  - torchlabs_accounts
+  - which is used to identify an accounts product.
+    - 
+  - The next example is the quantity of the actual price section. In the below example, we are using the accounts tab to sell ISP subnets but you can sell whatever you want such as Gmails and FLX accounts.  In our example, the customer will see a product on the dashboard for 254 Killer ISPs for $400. We use the
+  - amount
+  - 
+  - metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the
+  - amount
+  - we have the actual quantity in units, in this case, 254 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 254) -  Again you can do this with anything not just ISPs.
+    - 

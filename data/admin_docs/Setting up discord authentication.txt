@@ -1,0 +1,53 @@
+  - 
+      - To set up discord authenticator, Follow the discord developer link mentioned here.
+        - https://discord.com/developers
+      - 
+    - 
+  - 2. Click the new "Application"
+    - 
+  - 3. Name your application - We recommend using your company name and click "Create".
+    - 
+  - 4. Then upload your company logo.
+    - 
+  - 5. Left side of the Dashboard click the OAuth2.
+    - 
+  - 6. Here copy the Client ID.
+    - 
+  - 7. Here paste your Client ID.
+    - 
+  - 
+  - 8. Here again copy the Client Secret from discord.
+    - 
+  - 9. Here paste the Client Secret.
+    - 
+  - 
+  - 10. Click URL from the site and paste in Discord Developer.
+    - 
+  - 
+  - 11. Click Add Redirect, Paste the URL here.
+  - 
+    - https://auth-service-w34nvoxnwq-uc.a.run.app/api/v1/auth/discord/callback
+  - 
+    - 
+      - Once added, it will look like this. Then click on the
+      - Add Another
+      - button.
+    - 
+      - Then paste the below URL and click on the
+      - Save Changes
+      - button. Once you add both URLs, it should be like this.
+  - 
+    - https://core-proxy-service-w34nvoxnwq-uc.a.run.app/auth/discord/callback
+  - 
+    - 
+    - 
+      - Choose this option, If you want members to automatically join your server.
+    - 
+      - Copy your Server ID from Discord.
+    - 
+      - Click the Torch Lab Icon.
+    - 
+      - Copy your Server ID.
+    - 
+      - Paste the Server ID and save details.
+    - 

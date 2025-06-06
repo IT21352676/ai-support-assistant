@@ -1,0 +1,13 @@
+      - First, navigate to
+      - Residential Proxies -> Users.
+      - 
+    - All the sub-users are displayed in this section along with their user ID, plan name, and created date.
+    - 
+      - Click on the
+      - View
+      - button within each sub-user row to check the details of each sub-user.
+    - 
+      - The you can see the
+      - sub-user details
+      - as follows. it contains all the transactions and the data usage and balance data.
+    - 

@@ -1,0 +1,6 @@
+      - Go to the customer’s subscription page on Stripe and click the close subscription button
+    - 
+      - Next, you can cancel the subscription. Here you have a few options to select such as when to cancel the subscription (i.e. : immediately, end of the current period, or on a custom date). Make sure to choose No refund here.
+    - 
+  - If a user wants to cancel the subscription by themselves then they need to follow the steps in the following guide.
+  - 

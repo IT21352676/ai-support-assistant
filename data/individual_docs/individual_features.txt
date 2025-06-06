@@ -1,9 +1,0 @@
-Features for Individual Accounts
-
-As an individual user, you have access to:
-- Real-time chat support
-- Daily usage reports
-- In-app notifications and alerts
-- Mobile access on iOS and Android
-
-You can upgrade your plan from the "Billing" section in your profile.

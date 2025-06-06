@@ -1,0 +1,31 @@
+  - Use this method to brand your proxies with your own domain/company name
+  - To brand the proxies under your domain follow these steps:
+    - Here, There are 14 different pools are available and you have to create DNS records for each.
+      - Identify a common White Labeling name for all the 14 plans. For example, if you planned to use "private" as common name, your proxies will appear like this.
+      - usax pool ⇒
+      - private
+      - usax.youdomain.com:port:user:pass
+      - usatx pool ⇒
+      - private
+      - usatx.youdomain.com:port:user:pass
+      - dex pool ⇒
+      - private
+      - dex.youdomain.com:port:user:pass
+      - Generate a list of DSN record names. You can use below file to generate those easily.
+  - 
+    - White Labeling X Residential
+  - 
+      - We have provided a automated file for your ease. You can create a copy using the above link and insert the common White Labeling name to Cell C2 (#1).  Then, based on the name, API (#2) will be updated and Domain (#3) and Port (#4) keeps fixed.
+    - 
+      - The common format of DNS records are as follows. You have to replace "<<Your White Labeling Name>>" with the name you decided in step 01.
+  - 
+  - 
+      - Open the DNS configuration for your domain.
+      - Create a CNAME Record pointing to the domain.
+      - Whatever you enter in the name/host will decide the domain which points to our API IP.
+      - You have to create 14 records for each API name shown above.
+      - Thus if your domain is
+        - API.com
+      - and you enter the host premium or whatever you want to call it pointing to the X Residential domain, your usax proxy will be formatted testuasx.yourdomain.com:port:user:pass
+      - An example on Godaddy is linked below:
+    - 

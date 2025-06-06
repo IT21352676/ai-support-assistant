@@ -1,0 +1,16 @@
+    - This guide will help you change/hide/customize the names of the customer dashboard tabs using the admin dashboard.
+  - Renaming / Changing Tab Names
+      - Go to more settings on the admin dashboard and under product details the product names can be edited as required.
+    - 
+  - For an example the tab names could be renamed as Tab 1, Tab 2 and Tab 3 as needed.
+    - 
+  - The above changes will be displayed on the customer dashboard as follows
+    - 
+  - Hiding Tabs
+      - By disabling the tabs you can hide the tabs displayed on the customer dashboard.
+    - This feature helps you to hide unwanted products on the customer dashboard.
+    - 
+  - Customizing the Path Names of the Tabs
+      - Enter a new path name if you want to use a different one than the default.
+    - Please ensure the new pathname consists only of letters, numbers, and hyphens. Special characters are not permitted. For example, 'isps' or 'tl-accounts' are valid, but 'new account' is not.
+    - 

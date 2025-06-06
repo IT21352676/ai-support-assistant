@@ -1,0 +1,21 @@
+      - First, navigate to
+      - Residential Proxies -> Users.
+      - 
+    - All the sub-users are displayed in this section along with their user ID, plan name, and created date.
+    - 
+      - Next, click on the
+      - Create New User
+      - button.
+    - 
+      - Select the
+      - provider
+      - from the drop-down list.
+    - 
+      - Then
+      - add/remove
+      - data. Positive values will add data and negative values will remove the data.
+    - 
+      - Finally, click the
+      - Create
+      - button.
+    - 

@@ -1,0 +1,48 @@
+      - First, you need to
+        - 
+      - and set a custom recurring period to 28 days instead of a month
+    - you need to make sure, the price you have created has a custom recurring period set to 28 days. We do this because, if the customers' payment method fails, they now have a grace period of 2 days to complete the payment in order to keep the same set of proxies/items.
+  - Before getting started, make sure you have configured automatic subscription cancellation on stripe following this guide:
+    - 
+  - 
+    - 
+    - Depending on the product you can add any
+    - Quantity between 1 to 200.
+        - US product: VEVE , TICK , RETL , JUIC , DAILY , DC
+        - EU product: DTAG , DTAG_NL , VIRM , COLT , DAILY
+        - AU product: VOCU , DAILY
+    - Quantity - 254
+    - (Subnets)
+        - US product: RETL_24 , JUIC_24 , DC_24 , TICK_24
+        - EU product: DTAG_24 , VIRM_24
+        - AU product: VOCU_24
+    - Daily products only last for 24 hours, so they're meant to be one-time products. This means you can't set up recurring prices for them. Further, these are not extendable or renewable.
+    - Please remember this when adding the
+    - amount
+    - metadata field inside the Stripe price.
+      - 
+    - 
+      - Next, you must go to the products section and sync your new prices.
+  - 
+      - Go to the
+      - Datacenter
+      - tab on Admin Dashboard.
+    - 
+  - 4. Click on the dropdown list before the new batch and select TL API
+    - you also need to request the TL API to be activated on the ticket before you can see it on the drop-down list.
+    - 
+  - 5. Select the country/region
+    - 
+      - Select the product
+    - 
+      - Select the Auth type
+    - You can specify the authentication type for the proxies. By default, it is set to “user”. You can also set it to “socks” for SOCKS proxies.
+    - user: HTTP proxies
+    - socks: socks5 proxies
+    - Further reference:
+      - https://incogniton.com/socks-vs-http-proxy/
+    - 
+    - 
+      - Now you can add a stock limit, tick confirm, and select launch.
+    - Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
+    - 

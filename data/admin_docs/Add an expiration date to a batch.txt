@@ -1,0 +1,22 @@
+    - This guide will help you to add an expiring date for the automatically and manually generated ISPs.
+      - Go to the admin dashboard and then click on the
+      - Datacenter
+      - tab
+    - 
+  - 2. Select the mode of release from the dropdown list. (i.e. Automatic , Manual)
+    - 
+  - Automatic Release
+  - Once you update the IPs then you can select the expiry date of the IPs along with the time depending on the product.
+    - 
+  - Manual Release
+  - Here you have the option of setting the expiry date along with the time depending on the product.
+    - 
+  - The expiry date of the orders is displayed on the User Dashboard as follows
+    - 
+  - If the user chooses to use a specific date instead of the number of days once the expiration date has passed, a warning message will be displayed beneath the specific order on the admin dashboard as follows.
+    - 
+  - When a user attempts to purchase an expired product, a message will be displayed on the customer dashboard as follows.
+    - 
+  - If you want to edit the expiration date please follow the following guide.
+  - 
+  - 

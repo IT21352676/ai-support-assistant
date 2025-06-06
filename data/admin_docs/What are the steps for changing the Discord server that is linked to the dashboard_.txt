@@ -1,0 +1,8 @@
+      - Inform Torch Labs admins of the requirement to change the discord server linked to the dashboard.
+      - Refer to the following guide and follow the instructions
+  - 
+      - Once the auto-join setup is done, please send the following details so that we can update the database.
+      - bot_token:
+      - client_id:
+      - client_secret:
+      - guild_id:

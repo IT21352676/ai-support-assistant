@@ -1,0 +1,10 @@
+  - 
+    - When this option is enabled, animations on the customer dashboard will be disabled. On the other hand, if this option is disabled, customers will be able to enjoy animations on their dashboards, enhancing their user experience with visually appealing transitions and effects.
+      - Go to
+      - Other Settings
+      - on the admin dashboard
+    - 
+      - By default, the animation is enabled on the customer dashboard. Hence only if you want to disable it you can click on disable dashboard animation.
+    - 
+      - This is how to animation looks like when you hover around the product section
+    - 

@@ -1,0 +1,9 @@
+    - This section will guide you to update your Theme to appear on the user dashboard.
+  - Referring to the following guide you can create a theme.
+  - 
+      - Go to Admin Dashboard and click on More Settings
+    - 
+  - 2. Enter the Theme under the Dashboard UI section
+  - 
+  - and click Update.
+    - 

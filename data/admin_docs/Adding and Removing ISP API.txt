@@ -1,0 +1,26 @@
+    - This section will guide you on how to set up ISP API. When registering API, the Custom API is the one used for Tanmays Script, Porter Proxies is the one given by Porter proxies and MPM proxies is the one given by MPM proxies.
+      - Go to the
+      - Other Settings
+      - tab on Admin Dashboard
+    - 
+  - 2. Scroll down the page and click on
+  - Register API
+    - 
+  - 3. Fill in the details such as Name, API endpoint, and API Key. Then select  API type. Then click on Register
+    - we currently support API access from TL ISP API,Tanmay, Porter and MPM Proxies. More integrations will be added later.
+    - For TL ISP API you do not need to register as it is automatically already registered in every dashboard. You simply need to ask an admin to add data so that you can start selling data.
+    - Make sure to use only
+    - http
+    - and not to use any
+    - /
+    - symbol at the end of the API endpoint.
+    - 
+  - Once the API is registered you should be able to view them in the same location. Further, you can create any number of APIs here except for MPM ISP API. For MPM ISP API you can create only one API.
+    - 
+    - If you want to remove an ISP API batch, click on the delete icon in front of the created ISP API batch in the Other settings tab.
+    - 
+    - Customers can now see available proxies in the registered API section.
+    - 
+    - Customers can see the available amount of proxies for MPM ISP API under each server as shown above.
+  - You can create the required batch option by refering to the following guide.
+  - 

@@ -1,0 +1,8 @@
+      - VEVE - USA Ashburn dedicated server
+      - TICK - USA Ashburn dedicated server
+      - RETL - USA Ashburn dedicated server
+      - JUIC - USA Ashburn dedicated server
+      - DTAG - Germany dedicated server
+      - VIRM - UK dedicated server
+      - VOCU - Australia dedicated server
+      - COLT - UK dedicated server

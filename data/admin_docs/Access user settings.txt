@@ -1,0 +1,13 @@
+    - This guide will help you to find access to Other Settings on User Dashboard.
+  - Go to User Dashboard and click on the gear icon to find the other settings.
+    - 
+  - Following are the other settings and click on the link to be directed to the relevant guide.
+      - Setting up the Default Country
+  - 
+      - Updating Proxy Credentials
+  - 
+      - Managing Subscription and Billing
+  - 
+      - Whitelist the User's IPs
+  - 
+  - 

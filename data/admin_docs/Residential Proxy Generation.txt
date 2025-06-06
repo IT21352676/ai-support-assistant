@@ -1,0 +1,41 @@
+    - This section will guide you regarding the options and functions available on the user dashboard when generating proxies.
+    - Our dashboard provides customers with a range of options for generating different formats, which is great for flexibility. Additionally, the ability to target proxies by country, state, and city allows customers to optimize proxy usage for specific geographic locations. This can be particularly useful for businesses that have a strong local presence and need to gather data from specific regions. Overall, these features provide customers with greater control and customization options, which can ultimately lead to more efficient and effective use of proxies.
+      - Go to User Dashboard
+    - 
+  - 2. Click on the drop-down of Proxy Pool and select the required provider.
+    - 
+  - 3. Select the Proxy type (i.e. Sticky or Rotating)
+    - 
+  - 4. Then enter the number of Proxies to be generated.
+    - 
+  - 5. Select the SSL option. (This option is still available for Packetstream / Basic proxies only) Selecting
+  - Yes
+  - would give you proxies with a secure session.
+    - 
+  - 5.1 Please note that you can change the authentication type of PacketStream proxies. The port number will vary depending on the authentication type selected:
+      - HTTP: 31112
+      - HTTPS: 31111
+      - SOCKS5: 31113
+    - 
+  - 5.2 Select Special Pool
+    - It is a special pool of proxies generated that are of higher quality than the regular pool of proxies.
+    - 
+  - 6. Select the country. Now you have the ability to choose multiple countries and generate custom pools.
+    - 
+  - 6.1 If you select the country as USA (United States of America) then you get the option of clicking on
+  - Advance Settings
+  - only for Oxylabs , Smart , Geonode and IPRoyal.
+    - 
+  - 6.1.2 If you select Oxylabs / Smart / Geonode / IPRoyal as the Proxy pool and select the country as the USA, it can generate either state-level or city-level proxies by clicking
+  - Advance settings.
+  - But it is not possible to select both state and city. Once you select the State, automatically the city selection gets disabled and vice versa.
+    - 
+    - If you select a country other than the USA (United States of America), you can only target specific cities within that country.
+  - 7. Proxy format can be changed by clicking the available options here
+    - 
+  - 8. Once all the selections are done, click
+  - Generate.
+    - 
+      - You can copy the proxies to paste them onto another clipboard, or you can choose to download them all at once.
+    - 
+  - 

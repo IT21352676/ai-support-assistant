@@ -1,0 +1,62 @@
+    - This guide is specifically for products with active subscriptions.
+  - To completely remove a product with Active Subscriptions, follow these steps carefully:
+  - Step 01 - Cancel Active Subscriptions
+      - First, you have to remove all the active subscriptions from the Stripe. To that, you have to log in to your Stripe account first.
+      - Then, navigate to the
+      - Subscriptions
+      - page.
+    - 
+      - Locate the product with active subscriptions and click on its name. Once the product details load, the number of active subscriptions will be visible under the
+      - Subscription
+      - column.
+    - 
+      - Select the required price tier that has active subscriptions. When the price details load, click on the active subscription count under the
+      - Subscription
+      - column to view all active subscription products.
+    - 
+    - 
+      - Click on the three dots (
+      - ...
+      - ) next to a subscription and select the
+      - Cancel Subscription
+      - option. A pop-up will appear for confirmation.
+    - 
+      - Here there are multiple options you can select regarding the cancellation.
+      - Immediately
+      - : Cancels the subscription on the same day.
+      - End of the Current Period
+      - : Cancels the subscription on its next renewal date, allowing users to continue using the product until then.
+      - On a Custom Date
+      - : Cancels the subscription on a specific date you provide.
+  - You can also decide whether to offer a refund to the user. Once you've made your selections, click the
+  - Cancel Subscription
+  - button to finalize the cancellation. The subscription will then be canceled according to the chosen criteria.
+    - 
+  - Step 02 - Archive the Product
+      - After canceling all active subscriptions, locate the product in Stripe. Then, click on the three dots (
+      - ...
+      - ) next to the product name and select
+      - Archive Product
+      - .
+    - Ensure
+    - all active subscriptions are canceled
+    - before archiving the product. Once archived, the subscriptions will no longer be active.
+    - 
+  - Step 03 - Sync the Dashboard
+      - Log in to the dashboard using
+        - https://admindash.torchlabs.xyz/
+      - 
+      - Navigate to
+      - Products
+      - Tab and select the product you want to sync.
+    - 
+      - Click on the
+      - Pencil
+      - sign and then click on the
+      - Sync with Stripe
+      - button. If you received an error message, just ignore that. Then,
+      - Refresh
+      - the page and your product will be removed from the Dashboard. You can verify the same by checking the
+      - User Dashboard
+      - .
+    - 

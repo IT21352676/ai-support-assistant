@@ -1,0 +1,14 @@
+  - There are two subsections under the "Transactions" tab on the Admin dashboard: "Payments" and "Subscriptions." Each type of transaction has a unique transaction ID that can be found in the "Payments" tab, while each subscription has a unique subscription ID. These IDs will assist you in identifying specific transactions. Furthermore, they will be invaluable when communicating any errors or issues related to transactions with Torch Labs. Make sure to mention the transaction/subscription ID when lodging issues related to the transactions.
+      - Go to the admin dashboard and click on the payments tab
+    - 
+  - In finding the particular transactions/subscriptions you can refer to the following guide to search them.
+  - 
+      - Click on the Payments tab and click on the Transaction ID to copy the ID to the clipboard
+    - 
+      - Click on the Payments tab and click on the Subscription ID to copy the ID to the clipboard
+    - 
+  - 
+  - 
+  - 
+  - 
+  - 

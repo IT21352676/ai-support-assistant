@@ -1,0 +1,15 @@
+    - This guide will help you to edit the incomplete transactions in Datacenter and Accounts tabs.
+    - Please refer to the transaction types to have a further understanding regarding incomplete transactions.
+  - 
+      - Go to Datacenter / Accounts tab on Admin Dashboard.
+    - 
+  - 2. Select the incomplete transaction and click on the pencil icon before the product type with reference to that particular transaction.
+    - 
+  - 3. Then you can edit the proxies either by editing them or replacing them with new ones.
+    - 
+  - 4. Thereafter you can set an expiration date and time.
+    - 
+  - 5. At last tick
+  - Confirm
+  - and click save.
+    - 

@@ -1,0 +1,8 @@
+    - If you need to update or view a delivered product, for example, if you missed something or made a mistake, you can do so. Follow the following steps.
+      - Go to transactions in your dashboard
+    - 
+  - 2. Click edit as shown below
+    - 
+    - You can not edit orders from ISP API, Tanmay, and Porter proxies. It can be edited only when manual and automatic modes are there.
+  - 3. Edit the details you want to edit and click confirm save.
+    - 

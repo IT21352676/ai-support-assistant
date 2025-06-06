@@ -1,0 +1,7 @@
+  - There are a few reasons that smart proxies might not work
+      - The customer might not have data
+      - Their order has failed - they haven't received their data
+      - They may be out of data - not having enough data
+      - They may be testing on google. Smart proxy does not allow testing on Google therefore please ask the customers to test the proxies on a website like Footlocker.
+  - To look at all the supported sites please check the following link.
+  - 

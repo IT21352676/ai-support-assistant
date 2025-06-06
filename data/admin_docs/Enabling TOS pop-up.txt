@@ -1,0 +1,11 @@
+    - We have added a new TOS pop up option so customers are forced to accept your TOS before purchasing. This way you are protected against charge backs!
+    - 
+      - To access this, go to
+      - More Settings
+      - on the admin dashboard.
+    - 
+  - 2. Next, you have to enable the option by clicking on the toggle.
+    - 
+  - 3. Once enabled you must enter a link to your TOS page and click
+  - Save.
+  - 

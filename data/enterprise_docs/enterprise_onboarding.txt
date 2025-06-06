@@ -1,8 +1,0 @@
-Enterprise Customer Onboarding Process
-
-Welcome to our enterprise platform. After signing the agreement, your technical account manager will reach out within 24 hours. You'll receive access credentials and a dedicated Slack channel for support.
-
-Setup steps:
-1. Configure your SSO and provisioning rules.
-2. Schedule a training session for your team.
-3. Connect your systems using the provided API keys.

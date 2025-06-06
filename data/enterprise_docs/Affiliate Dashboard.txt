@@ -1,0 +1,55 @@
+  - Overview
+  - The Torch Labs Affiliate Dashboard provides a centralized space where you can monitor your performance as an affiliate. It allows you to track your clicks, referrals, revenue, and payouts—all in one place. Whether you’re just getting started or already generating results, this dashboard gives you a clear, real-time view of how your promotional efforts are performing.
+  - Your Affiliate Link
+  - By clicking the Promotion button, you can get your unique Affiliate Link to share with. Then, click the
+  - Copy
+  - button to copy the Link.
+    - 
+    - 
+  - Your Tier & Commission
+  - At the top left, you’ll see your
+  - Current Tier
+  - , along with your
+  - Commission Rate
+  - . This is how much you’ll earn from each successful referral.
+    - 
+  - Navigation
+  - Here are main navigation options available.
+      - Dashboard
+      - – The page you're on right now.
+      - Referrals
+      - – See who you referred and their status.
+      - Assets
+      - – Download banners, graphics, and links to help you promote.
+      - Payments
+      - – See when and how you’ve been paid.
+      - Settings
+      - – Update your email, payout method, and more.
+    - 
+  - Main Statistics
+  - Here’s what each number means:
+      - Revenue
+      - – How much money you’ve earned from referrals so far.
+      - Clicks
+      - – How many people have clicked your unique affiliate link.
+      - Referrals
+      - – How many people actually signed up using your link.
+      - Payments
+      - – How many times you've been paid so far.
+  - This area updates in real time, so you can always check how you’re doing!
+    - 
+  - Overview Chart
+  - Below the Statistics, you'll see a chart that shows your activity over time.
+You can toggle between:
+      - Revenue
+      - – Shows how much you earned daily or weekly.
+      - Clicks
+      - – Shows how many clicks you got.
+  - This helps you see what days or campaigns performed best!
+    - 
+  - Payments Panel
+  - On the right, you’ll see your payout summary.
+      - This tells you how many payments you've received.
+      - Once you hit the payout threshold, this will update with your upcoming payment!
+    - 
+  - 

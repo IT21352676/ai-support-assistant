@@ -1,0 +1,81 @@
+    - This guide includes all the permission roles that could be assigned to a sub-admin user.
+      - all_residential
+      - ,
+      - all_datacenter
+      - ,
+      - all_accounts
+  - These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows creating a batch for datacenter and accounts
+    - 
+    - 
+    - 
+      - view_residential
+      - ,
+      - view_datacenter
+      - ,
+      - view_accounts
+  - These permissions allow users to view only residential, datacenter, and accounts products.
+    - 
+    - 
+      - create_residential
+      - ,
+      - create_datacenter
+      - ,
+      - create_accounts
+  - These permissions allow users to sync residential, datacenter, and accounts products. and also user needs view permission for products to create.
+      - update_residential
+      - ,
+      - update_datacenter
+      - ,
+      - update_accounts
+  - These permissions allow users to enable and disable residential, datacenter, and accounts products, create batches for datacenter and accounts and edit the description of all products. Also, users need view permission for products to update.
+    - 
+    - 
+      - all_coupons
+  - This permission allows users to view, create, and delete coupons.
+    - 
+      - view_coupons
+  - This permission allows users to only view coupons.
+    - 
+      - create_coupons
+  - This permission allows users to create coupons. also users need
+  - view_coupons
+  - permission to create.
+    - 
+      - delete_coupons
+  - This permission allows users to delete coupons. Also, users need
+  - view_coupons
+  - permission to delete.
+    - 
+      - all_transactions
+  - This permission allows users to view, create, update and delete transactions.
+    - 
+    - 
+      - view_transactions
+  - This permission allows users to only view Transactions.
+    - 
+    - 
+      - update_transactions
+  - This permission allows users to update Transactions and fulfill orders. Also users need
+  - view_transactions
+  - permission to update.
+    - 
+    - 
+      - delete_transactions
+  - This permission allows users to delete Transactions. also users need
+  - view_transactions
+  - permission to delete.
+    - 
+      - all_users
+  - This permission allows users to view and update User Dashboard Discord users.
+    - 
+      - view_users
+  - This permission allows users to only view User Dashboard Discord users.
+    - 
+      - update_users
+  - This permission allows users to Add or Subtract the Data Balance of each plan of User Dashboard Discord users. also, users need
+  - view_users
+  - permission to Update.
+    - 
+      - view_analytics
+  - This permission allows users to view Analytics.
+    - 

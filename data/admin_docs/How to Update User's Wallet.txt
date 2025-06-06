@@ -1,0 +1,48 @@
+  - Overview
+  - We’ve launched a new top-up system to make managing your payments easier. With this system, user can add credits to their account, giving them more flexibility with their payments. Users can easily check their wallet balance and review their credit history right from their dashboard. Admins have their own special dashboard where they can manage user credits, making it simple to oversee all accounts. Additionally, the system supports using the user’s wallet balance for both one-time and recurring payments. This new system is designed to give the user more control and convenience when handling their payments.
+  - Steps to update the user’s Wallet
+      - Log in to the
+      - Admin Dashboard
+      - and navigate to the
+      - Users
+      - Section.
+    - 
+      - Search the user and select the user.
+    - 
+      - Then, add how many Wallet Credits you want to add for the user under the
+      - Wallet Balance
+      - . And then click on the
+      - Update
+      - Button.
+    - 
+      - After successfully adding of the Wallet Balance, you will have the below pop-up.
+    - 
+      - You can check all the transactions related to the Wallet updates. For that, you have to simply navigate to the
+      - Transactions -> Wallet Updates
+      - .
+    - 
+      - In the Payment section, Wallet payments can be identified under the
+      - Payment Method
+      - and it will indicate it is as a “
+      - Wallet
+      - ”. To that, simply navigate to T
+      - ransactions -> Payments
+      - .
+    - 
+  - 
+  - Steps to Remove the Wallet Balance
+  - 
+      - Log in to the Admin Dashboard and navigate to the Users Section.
+    - 
+      - Search the user and select the user.
+    - 
+      - Then, add how many Wallet Credits you want to remove from the user under the
+      - Wallet Balance
+      - with the
+      - minus ( - )
+      - sign. And then click on the
+      - Update
+      - Button.
+    - 
+      - After successfully removing of the Wallet Balance, you will have the below pop-up.
+    - 

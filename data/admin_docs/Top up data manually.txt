@@ -1,0 +1,13 @@
+    - This guide will show you how to update data manually to your user's account.
+      - Torch Lab users have a choice of
+      - Seven data
+      - plans from which to pick.
+    - 
+  - 2. The data can be purchased in the marked area just by increasing and decreasing through the line. The price per GB and Total price for the purchase will appear in two boxes below. Simply click
+  - BUY.
+    - 
+  - 3. Finally checkout will arrive, Here are the payment card details to be filled in, and click
+  - PAY.
+    - 
+  - 4. The balance GB will be always displayed here.
+    - 

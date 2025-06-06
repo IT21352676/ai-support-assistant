@@ -1,0 +1,12 @@
+  - Welcome aboard!
+  - Welcome to the Torch Labs Dashboard help center!
+  - This guide will have answers to 99% of your questions!
+      - General Settings
+      - Product Settings
+      - Residential Products
+      - Datacenter and Account
+      - More Settings
+      - Onboarding Guide
+      - Proxy Masking
+      - Customer Dashboard
+      - Errors & FAQs

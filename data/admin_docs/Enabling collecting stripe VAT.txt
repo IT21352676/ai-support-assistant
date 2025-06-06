@@ -1,0 +1,6 @@
+      - Click on
+      - More Settings
+    - 
+      - Enable collecting stripe VAT
+    - 
+  - 

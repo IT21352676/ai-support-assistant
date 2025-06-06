@@ -1,0 +1,12 @@
+    - This section will guide you on how to enable stripe tax. When this option is enabled, Stripe Tax allows you to calculate the tax on your customers one-time and recurring payments when customers use Checkout.
+    - First you need to enable stripe tax on your stripe dashboard using the following instructions :
+      - https://stripe.com/docs/tax/set-up
+    - 
+    - Be cautious about the following error
+    - 
+      - 
+    - 
+      - Go to Admin Dashboard and click on More Settings
+    - 
+  - 2. Enable stripe tax
+    - 

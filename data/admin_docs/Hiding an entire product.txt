@@ -1,0 +1,8 @@
+    - This guide will help you hide a product on the customer dashboard. If you have a product that is out of stock, you can hide it without displaying it as out of stock. Whenever you need to display the product on the customer dashboard again, you can easily do so. This method temporarily hides a product without archiving it entirely on Stripe.
+      - Click on the product tab on the admin dashboard.
+    - 
+      - Select the Edit Icon
+    - 
+      - Click the Hide/Show Button
+    - 
+    - Refresh the page to apply the changes. Thereafter he product will no longer be displayed on the customer dashboard.
