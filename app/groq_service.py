@@ -17,11 +17,15 @@ async def generate_llm_response(prompt: str):
     data=json.dumps({
     "model": "mistralai/mixtral-8x7b-instruct",
     "messages": [
-      {
-        "role": "user",
-        "content": prompt
-      }
-    ],
+            {
+                "role": "system",
+                "content": "You are Torch Labs' official assistant. Answer in a professional tone, as a company representative."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
     
   })
 

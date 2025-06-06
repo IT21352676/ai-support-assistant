@@ -20,7 +20,7 @@ def retrieve_chunks(customer_type, query):
 
     results = collection.query(
         query_embeddings=query_embedding,
-        n_results=5
+        n_results=10
     )
 
     return {
