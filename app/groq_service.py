@@ -1,22 +1,18 @@
-import httpx
 import os
 from dotenv import load_dotenv
-import json
+from groq import Groq
+
 
 load_dotenv()
 
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+api_key = os.getenv("GROQ_API_KEY")
 
+client = Groq()
 
 async def generate_llm_response(prompt: str):
-    headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-        "Content-Type": "application/json"
-    }
-
-    data=json.dumps({
-    "model": "mistralai/mixtral-8x7b-instruct",
-    "messages": [
+    completion = client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[
             {
                 "role": "system",
                 "content": "You are Torch Labs' official assistant. Answer in a professional tone, as a company representative."
@@ -26,10 +22,5 @@ async def generate_llm_response(prompt: str):
                 "content": prompt
             }
         ]
-    
-  })
-
-    async with httpx.AsyncClient() as client:
-        response = await client.post("https://openrouter.ai/api/v1/chat/completions", data=data, headers=headers)
-        response.raise_for_status()
-        return response.json()["choices"][0]["message"]["content"]
+    )
+    return completion.choices[0].message.content
