@@ -19,7 +19,7 @@ def add_to_user_history(user_id: str, question: str, answer: str):
     history_key = f"user_history:{user_id}"
     entry = json.dumps({"question": question, "answer": answer})
     redis_client.rpush(history_key, entry)
-    # redis_client.ltrim(history_key, -1,-5)  # Keep only last 5 entries
+    redis_client.ltrim(history_key, -5,-1)  # Keep only last 5 entries
 
 def get_user_history(user_id: str):
     history_key = f"user_history:{user_id}"
