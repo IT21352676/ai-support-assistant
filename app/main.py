@@ -33,16 +33,8 @@ async def generate_response(customer_name:str=Query(...), customer_type: str = Q
     user_history = get_user_history(user_id)
     
     history_str = "\n".join([f"Previous Question: {item['question']}\n" for item in user_history])
-<<<<<<< HEAD
     print(f"User History: {history_str}")
     prompt = f"""Customer History:(Sometimes customer asking questions related to previous questions, at like these situations use this, these questions only to you for get better understand with conversation and dont mention return to customer previous history)
-=======
-    
-    prompt = f"""
-    Customer Name : {customer_name}
-
-    Customer History:(This will help you understand the customer's previous questions and context)
->>>>>>> e079138715fb307eeeb9c9cf89d13ab0c681c9bb
     {history_str}
 
     Customer Current Question: {question}:(This is the current question from the customer)
