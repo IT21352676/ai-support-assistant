@@ -18,9 +18,9 @@ def retrieve_context(
     return retrieve_chunks(customer_type, query)
 
 @app.get("/generate-response")
-async def generate_response(customer_type: str = Query(..., enum=["enterprise", "admin"]), question: str = Query(...), user_id: str = Query(...)):
+async def generate_response(customer_name:str=Query(...), customer_type: str = Query(..., enum=["enterprise", "admin"]), question: str = Query(...), user_id: str = Query(...)):
     # Cache key
-    cache_key = create_cache_key(customer_type, question)
+    cache_key = create_cache_key(user_id,customer_type, question)
     cached = get_cached_response(cache_key)
 
     if cached:
@@ -33,13 +33,21 @@ async def generate_response(customer_type: str = Query(..., enum=["enterprise", 
     user_history = get_user_history(user_id)
     
     history_str = "\n".join([f"Previous Question: {item['question']}\n" for item in user_history])
+<<<<<<< HEAD
     print(f"User History: {history_str}")
     prompt = f"""Customer History:(Sometimes customer asking questions related to previous questions, at like these situations use this, these questions only to you for get better understand with conversation and dont mention return to customer previous history)
+=======
+    
+    prompt = f"""
+    Customer Name : {customer_name}
+
+    Customer History:(This will help you understand the customer's previous questions and context)
+>>>>>>> e079138715fb307eeeb9c9cf89d13ab0c681c9bb
     {history_str}
 
-    Current Question: {question}:(This is the current question from the customer)
+    Customer Current Question: {question}:(This is the current question from the customer)
 
-    Context:(This is the context retrieved from the database, sometimes it might be un relevant(Like situation greetings , thankings etc) to the question, so you need to understand the context and then answer the question){context['results']} 
+    Context:(This is the context retrieved from the database, sometimes it might be unrelevant(Like situation greetings , thankings etc) to the question, so you need to understand the context and then answer the question){context['results']} 
     """
 
     # Call LLM
@@ -54,11 +62,10 @@ async def generate_response(customer_type: str = Query(..., enum=["enterprise", 
 
     return {"cached": False, "response": ai_response}
 
-# @app.get("/get-documents")
-# async def get_documents(customer_type: str = Query(..., enum=["enterprise", "admin"])):
-#     folder = DATA_DIR / f"{customer_type}_docs"
-#     file_names = []
-#     for file in folder.iterdir():
-#         if file.is_file():
-#             file_names.append(file.stem)  # Or use `file.stem` if you want the name without extension
-#     return file_names
+@app.get("/get-user-history")
+async def get_history(user_id: str = Query(...)):
+    user_history =get_user_history(user_id)
+    history_str = "\n".join([f"{item['question']}\n" for item in user_history])
+    return {"history":history_str}
+
+    
